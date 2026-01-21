@@ -1,0 +1,26 @@
+Degree calculation summary report
+Total students processed: 300
+Students passed: 297
+Students failed: 3
+Pass rate: 99.0%
+Fail rate: 1.0%
+
+Degree classifications breakdown
+First Class                        :  15 (  5.0%)
+Second Class (Upper Division)      : 216 ( 72.0%)
+Second Class (Lower Division)      :  66 ( 22.0%)
+Fail                               :   3 (  1.0%)
+
+Average marks
+Average year 2 mark: 67.23%
+Average year 3 mark: 62.19%
+Average final mark: 63.45%
+
+Final mark range
+Highest final mark: 75.3%
+Lowest final mark: 50.86%
+
+Calculation based on UWE Academic Regulations 23/24
+Level 5: best 100 credits (typically 90 due to credit structure)
+Level 6: all credits
+Final mark: (Level 6 * 3 + Level 5) / 4
