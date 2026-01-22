@@ -3,8 +3,6 @@
 """
 Degree Calculation System(Task 1.1)
 
-UWE Degree Calculation System
-
 Calculates student degree classifications based on module marks
 """
 
