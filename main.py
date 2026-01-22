@@ -1,5 +1,12 @@
 # src/main.py
 
+"""
+Degree Calculation System(Task 1.1)
+
+UWE Degree Calculation System
+Calculates student degree classifications based on module marks
+"""
+
 from src.handle_data import load_modules, load_student_marks
 from src.handle_data import save_results_csv, save_summary_txt, display_summary
 from src.degree_calculator import DegreeCalculator
